@@ -39,7 +39,7 @@ This repository contains a dynamic Power BI Template (`.pbit`) designed to visua
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Report Dashboard]"D:\C DATA\Pictures\Screenshots\Screenshot (268).png"
+![Amazon Sales Report Dashboard](Screenshot%20(268).png)
 
 ---
 
@@ -60,8 +60,8 @@ If you have ideas to enhance this template or want to add more visuals, feel fre
 
 ## 📬 Contact
 
-📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-yadav-93bb802b2)  
-Let's discuss data, dashboards, and all things analytics!
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-yadav-93bb802b2)  
+Let’s connect and talk data!
 
 ---
 
