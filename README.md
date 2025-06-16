@@ -39,7 +39,7 @@ This repository contains a dynamic Power BI Template (`.pbit`) designed to visua
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Report Dashboard](1365eb84-6609-4da1-b340-49cf07af5fb6.png)
+![Amazon Sales Report Dashboard]"D:\C DATA\Pictures\Screenshots\Screenshot (268).png"
 
 ---
 
